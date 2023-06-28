@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "237869985446",
+    "project_id": "noticias-c18ec",
+    "storage_bucket": "noticias-c18ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237869985446:android:f4ee4a0cdb7830512fce67",
+        "android_client_info": {
+          "package_name": "com.example.crud_room_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237869985446-cbocm1rj6ndfhkeiv6uiruo1998nl1dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgrt16swRXUrB44cgrNYnNZwnuS7YZsIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237869985446-cbocm1rj6ndfhkeiv6uiruo1998nl1dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237869985446:android:0e8c3d552fa5ec7f2fce67",
+        "android_client_info": {
+          "package_name": "com.treminio.noticias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237869985446-cbocm1rj6ndfhkeiv6uiruo1998nl1dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgrt16swRXUrB44cgrNYnNZwnuS7YZsIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237869985446-cbocm1rj6ndfhkeiv6uiruo1998nl1dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
